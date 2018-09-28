@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Privacy Policy for Guitar Chords - No Ads!
 
-You can use the [editor on GitHub](https://github.com/micyeung/guitar-chords-privacy-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I built the Guitar Chords Finder - No Ads! app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-### Markdown
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is only used for improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The app does use third party services that may collect information used to identify you.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micyeung/guitar-chords-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link to privacy policy of third party service providers used by the app:
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Firebase Analytics](https://firebase.google.com/policies/analytics)
+- [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
